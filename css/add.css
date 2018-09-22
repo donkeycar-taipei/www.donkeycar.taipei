@@ -1,0 +1,10 @@
+.search-items{
+    /* list-style:none; */
+    list-style: outside;
+   }
+
+   .search-items li{
+    /* list-style:none; */
+    float:left;
+    color: #6c757d!important;
+   }
